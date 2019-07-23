@@ -56,7 +56,7 @@ Returns string.
 
 Source Code
 ===========
-See the source code for method [MysqlCreateTableUtil::sanitizeReferentialAction](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/MysqlCreateTableUtil.php#L372-L390)
+See the source code for method [MysqlCreateTableUtil::sanitizeReferentialAction](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/MysqlCreateTableUtil.php#L374-L392)
 
 
 See Also

@@ -57,7 +57,7 @@ Returns [Column](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/d
 
 Source Code
 ===========
-See the source code for method [Column::foreignKey](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/Column/Column.php#L263-L270)
+See the source code for method [Column::foreignKey](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/Column/Column.php#L264-L271)
 
 
 See Also

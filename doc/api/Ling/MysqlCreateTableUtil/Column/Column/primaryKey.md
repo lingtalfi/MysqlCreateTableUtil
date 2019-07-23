@@ -46,7 +46,7 @@ Returns [Column](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/d
 
 Source Code
 ===========
-See the source code for method [Column::primaryKey](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/Column/Column.php#L248-L252)
+See the source code for method [Column::primaryKey](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/Column/Column.php#L249-L253)
 
 
 See Also

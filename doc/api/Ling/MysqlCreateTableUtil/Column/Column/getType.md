@@ -46,7 +46,7 @@ Returns string.
 
 Source Code
 ===========
-See the source code for method [Column::getType](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/Column/Column.php#L320-L323)
+See the source code for method [Column::getType](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/Column/Column.php#L321-L324)
 
 
 See Also

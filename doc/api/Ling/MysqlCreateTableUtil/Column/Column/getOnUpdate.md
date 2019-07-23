@@ -46,7 +46,7 @@ Returns string.
 
 Source Code
 ===========
-See the source code for method [Column::getOnUpdate](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/Column/Column.php#L440-L443)
+See the source code for method [Column::getOnUpdate](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/Column/Column.php#L441-L444)
 
 
 See Also

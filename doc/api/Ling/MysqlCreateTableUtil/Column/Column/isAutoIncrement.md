@@ -46,7 +46,7 @@ Returns bool.
 
 Source Code
 ===========
-See the source code for method [Column::isAutoIncrement](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/Column/Column.php#L340-L343)
+See the source code for method [Column::isAutoIncrement](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/Column/Column.php#L341-L344)
 
 
 See Also

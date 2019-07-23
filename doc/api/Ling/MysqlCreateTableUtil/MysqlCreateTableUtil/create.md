@@ -30,6 +30,14 @@ Parameters
 ================
 
 
+- table
+
+    
+
+- database
+
+    
+
 
 Return values
 ================
@@ -45,7 +53,7 @@ Returns [MysqlCreateTableUtil](https://github.com/lingtalfi/MysqlCreateTableUtil
 
 Source Code
 ===========
-See the source code for method [MysqlCreateTableUtil::create](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/MysqlCreateTableUtil.php#L85-L91)
+See the source code for method [MysqlCreateTableUtil::create](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/MysqlCreateTableUtil.php#L87-L93)
 
 
 See Also

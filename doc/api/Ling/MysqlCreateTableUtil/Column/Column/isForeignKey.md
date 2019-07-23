@@ -46,7 +46,7 @@ Returns bool.
 
 Source Code
 ===========
-See the source code for method [Column::isForeignKey](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/Column/Column.php#L390-L393)
+See the source code for method [Column::isForeignKey](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/Column/Column.php#L391-L394)
 
 
 See Also

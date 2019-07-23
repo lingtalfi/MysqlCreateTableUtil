@@ -49,7 +49,7 @@ Returns [MysqlCreateTableUtil](https://github.com/lingtalfi/MysqlCreateTableUtil
 
 Source Code
 ===========
-See the source code for method [MysqlCreateTableUtil::setEngine](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/MysqlCreateTableUtil.php#L99-L103)
+See the source code for method [MysqlCreateTableUtil::setEngine](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/MysqlCreateTableUtil.php#L101-L105)
 
 
 See Also

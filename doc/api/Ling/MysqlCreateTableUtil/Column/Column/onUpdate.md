@@ -49,7 +49,7 @@ Returns [Column](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/d
 
 Source Code
 ===========
-See the source code for method [Column::onUpdate](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/Column/Column.php#L295-L299)
+See the source code for method [Column::onUpdate](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/Column/Column.php#L296-L300)
 
 
 See Also

@@ -46,7 +46,7 @@ Returns bool.
 
 Source Code
 ===========
-See the source code for method [Column::isUniqueIndex](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/Column/Column.php#L360-L363)
+See the source code for method [Column::isUniqueIndex](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/Column/Column.php#L361-L364)
 
 
 See Also

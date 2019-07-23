@@ -46,7 +46,7 @@ Returns string.
 
 Source Code
 ===========
-See the source code for method [Column::getOnDelete](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/Column/Column.php#L430-L433)
+See the source code for method [Column::getOnDelete](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/Column/Column.php#L431-L434)
 
 
 See Also

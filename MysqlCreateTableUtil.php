@@ -80,6 +80,8 @@ class MysqlCreateTableUtil
     /**
      * Creates and returns an instance of MysqlCreateTableUtil.
      *
+     * @param string $table
+     * @param string|null $database
      * @return MysqlCreateTableUtil
      */
     public static function create(string $table, string $database = null): MysqlCreateTableUtil

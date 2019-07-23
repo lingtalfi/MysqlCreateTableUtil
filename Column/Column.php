@@ -231,6 +231,7 @@ class Column
     /**
      * Sets the uniqueIndex property to true and returns the current instance.
      *
+     * @param string|null $indexId
      * @return Column
      */
     public function uniqueIndex(string $indexId = null): Column

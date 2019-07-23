@@ -46,7 +46,7 @@ Returns bool.
 
 Source Code
 ===========
-See the source code for method [Column::isPrimaryKey](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/Column/Column.php#L370-L373)
+See the source code for method [Column::isPrimaryKey](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/Column/Column.php#L371-L374)
 
 
 See Also

@@ -90,6 +90,10 @@ Note: the created statement is based on my observations of the MysqlWorkBench ut
 History Log
 =============
 
+- 1.0.1 -- 2019-07-23
+
+    - update docTools documentation 
+    
 - 1.0.0 -- 2019-07-23
 
     - initial commit

@@ -46,7 +46,7 @@ Returns string | null.
 
 Source Code
 ===========
-See the source code for method [Column::getUniqueIndexId](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/Column/Column.php#L380-L383)
+See the source code for method [Column::getUniqueIndexId](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/Column/Column.php#L381-L384)
 
 
 See Also

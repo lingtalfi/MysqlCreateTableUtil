@@ -49,7 +49,7 @@ Returns [MysqlCreateTableUtil](https://github.com/lingtalfi/MysqlCreateTableUtil
 
 Source Code
 ===========
-See the source code for method [MysqlCreateTableUtil::addColumn](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/MysqlCreateTableUtil.php#L123-L127)
+See the source code for method [MysqlCreateTableUtil::addColumn](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/MysqlCreateTableUtil.php#L125-L129)
 
 
 See Also

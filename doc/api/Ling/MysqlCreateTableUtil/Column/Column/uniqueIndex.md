@@ -30,6 +30,10 @@ Parameters
 ================
 
 
+- indexId
+
+    
+
 
 Return values
 ================
@@ -45,7 +49,7 @@ Returns [Column](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/d
 
 Source Code
 ===========
-See the source code for method [Column::uniqueIndex](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/Column/Column.php#L236-L241)
+See the source code for method [Column::uniqueIndex](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/Column/Column.php#L237-L242)
 
 
 See Also

@@ -49,7 +49,7 @@ Returns [MysqlCreateTableUtil](https://github.com/lingtalfi/MysqlCreateTableUtil
 
 Source Code
 ===========
-See the source code for method [MysqlCreateTableUtil::setDefaultCharset](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/MysqlCreateTableUtil.php#L111-L115)
+See the source code for method [MysqlCreateTableUtil::setDefaultCharset](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/MysqlCreateTableUtil.php#L113-L117)
 
 
 See Also

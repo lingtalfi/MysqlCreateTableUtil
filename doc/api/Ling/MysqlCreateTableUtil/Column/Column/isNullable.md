@@ -46,7 +46,7 @@ Returns bool.
 
 Source Code
 ===========
-See the source code for method [Column::isNullable](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/Column/Column.php#L350-L353)
+See the source code for method [Column::isNullable](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/Column/Column.php#L351-L354)
 
 
 See Also

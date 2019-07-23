@@ -46,7 +46,7 @@ Returns int | null.
 
 Source Code
 ===========
-See the source code for method [Column::getTypeSize](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/Column/Column.php#L330-L333)
+See the source code for method [Column::getTypeSize](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/Column/Column.php#L331-L334)
 
 
 See Also

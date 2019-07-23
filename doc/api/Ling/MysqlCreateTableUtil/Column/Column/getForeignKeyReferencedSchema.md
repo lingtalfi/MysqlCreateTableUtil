@@ -46,7 +46,7 @@ Returns string | null.
 
 Source Code
 ===========
-See the source code for method [Column::getForeignKeyReferencedSchema](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/Column/Column.php#L400-L403)
+See the source code for method [Column::getForeignKeyReferencedSchema](https://github.com/lingtalfi/MysqlCreateTableUtil/blob/master/Column/Column.php#L401-L404)
 
 
 See Also
