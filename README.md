@@ -59,7 +59,7 @@ a($util->render());
 Will produce an output like this:
 
 ```html
-string(593) "CREATE TABLE IF NOT EXISTS `mydb`.`user` (
+string(592) "CREATE TABLE IF NOT EXISTS `mydb`.`user` (
 `id` INT(11) NOT NULL AUTO_INCREMENT,
 `user_id` VARCHAR(128) NOT NULL,
 `password` VARCHAR(64) NOT NULL,
@@ -69,7 +69,7 @@ string(593) "CREATE TABLE IF NOT EXISTS `mydb`.`user` (
 `extra` VARCHAR(64) NOT NULL,
 `address_id` INT(11) NOT NULL,
 PRIMARY KEY (`id`),
-UNIQUE INDEX `user_id_UNIQUE` (`user_id` ASC)),
+UNIQUE INDEX `user_id_UNIQUE` (`user_id` ASC),
 INDEX `fk_user_address_idx` (`address_id` ASC),
 CONSTRAINT `fk_user_address_idx`
 FOREIGN KEY (`address_id`)
@@ -90,6 +90,10 @@ Note: the created statement is based on my observations of the MysqlWorkBench ut
 History Log
 =============
 
+- 1.0.2 -- 2019-07-23
+
+    - fix typo 
+    
 - 1.0.1 -- 2019-07-23
 
     - update docTools documentation 

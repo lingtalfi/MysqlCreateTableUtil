@@ -218,7 +218,7 @@ class MysqlCreateTableUtil
         //--------------------------------------------
         foreach ($uniqueIndexesOneCol as $name) {
             $nameUnique = "$name" . "_UNIQUE";
-            $lines[] = "UNIQUE INDEX `$nameUnique` (`$name` ASC))";
+            $lines[] = "UNIQUE INDEX `$nameUnique` (`$name` ASC)";
         }
 
         foreach ($uniqueIndexesMultiCol as $indexId => $names) {
@@ -234,7 +234,7 @@ class MysqlCreateTableUtil
                 $sLine .= "`$name` ASC";
                 $c++;
             }
-            $lines[] = "UNIQUE INDEX `$nameUnique` ($sLine))";
+            $lines[] = "UNIQUE INDEX `$nameUnique` ($sLine)";
         }
 
 
